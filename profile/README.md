@@ -1,17 +1,6 @@
 # Coanda Github Home
 
-Welcome to Coanda's Github organization. Here you will find helpful information on interacting with our Github repositories and contributing code.
-
-## Teams
-
-<p align="center">
-<a href="https://github.com/orgs/CRD-Coanda/teams/projects">projects</a> |
-<a href="https://github.com/orgs/CRD-Coanda/teams/scientific">scientific</a> |
-<a href="https://github.com/orgs/CRD-Coanda/teams/cfd">cfd</a> |
-<a href="https://github.com/orgs/CRD-Coanda/teams/instruments">instruments</a> |
-<a href="https://github.com/orgs/CRD-Coanda/teams/pydaq">pydaq</a>  |
-<a href="https://github.com/orgs/CRD-Coanda/teams/dactl">dactl</a>
-</p>
+Welcome to Coanda's Github organization. You're viewing our Public profile. If you're a member of the org. you can select to view the Private profile where you will find helpful information on interacting with our Github repositories and contributing code.
 
 ## Github Account
 
@@ -33,40 +22,4 @@ __If you already have a GitHub account__
     1. Add your tetratech.com email address as an email in your account settings (Emails section).
     1. Make your tetratech.com address your primary address (selection on the same page).
     1. Follow steps 2 to 5 from the new account section above.
-
-
-## Post-Migration Guide
-
-This section provides instructions for how to point your old "local" repositories to the new remote endpoints at Github.com.
-
-### Authentication
-
-#### ssh key
-If you are going to be using ssh-keys, refer to the instructions here:
-- https://docs.github.com/en/authentication/connecting-to-github-with-ssh
-
-TODO: maybe we can do a simpler subset of these, need to test on Windows.
-
-#### https
-
-If you want to authenticate with https, it should "just work". When you need to authenticate (i.e. during a clone/pull/push) you will be prompted for a Tetratech Single-Sign-On (SSO) credential. This is the credentials for your CRD-Coanda joined Github account. More information about authentication including https can be found here:
-- https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github
-
-### Redirecting
-
-To set the new remote, the command depends on whether you will use ssh or https. In both cases the <repository-name> must be replaced by the name of the repo on GitHub. __YOU WILL NEED TO REFER TO THE REPOSITORY NAME SHEET TO FIND THE MAPPED REPOSITORY NAME__.  The spreadsheet is located [here].
-
-1. Navigate to the local directory containing your git repository.
-1. Change the remote url with one of the following commands (depending on your desired authentication mode):
-
-   SSH:
-   ```sh
-   git remote set-url origin git@github.com:CRD-Coanda/<repository-name>.git
-   ```
-
-   HTTPS:
-   ```sh
-   git remote set-url origin https://github.com/CRD-Coanda/<repository-name>.git
-   ```
-
 
