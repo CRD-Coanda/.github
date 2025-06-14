@@ -21,5 +21,5 @@ __If you already have a GitHub account__
 1. If you want to use your existing account, continue with this section.
     1. Add your tetratech.com email address as an email in your account settings (Emails section).
     1. Make your tetratech.com address your primary address (selection on the same page).
-    1. Follow steps 2 to 5 from the new account section above.
+    1. Follow steps 4 to 7 from the new account section above.
 
