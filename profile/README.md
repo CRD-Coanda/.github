@@ -13,7 +13,7 @@ __If you do not have a GitHub account__
 1. Change your display "name" to your full name in the user settings (public profile section).
 1. Send an email or Teams chat with your username to Scott Webster or Tom Depew and we will invite your account to the Coanda organization.
 1. You will be required to enable 2FA. This is separate from the usual Tetra Tech process, but you can use the same Microsoft Authenticator app. Follow the instructions for setup.
-1. Submit an IT helpdesk request for a "GitHub Enterprise Standalone" license (Helpdesk - Software/Applications - Request Software Install/Purchase). Your supervisor will be asked to approve. Let them know about the request and tell them to reach out to Scott Webster or Tom Depew if they have any questions.
+1. Submit an IT helpdesk request for a "GitHub Enterprise Standalone" license (Helpdesk - Software/Applications - Request Software Install/Purchase). Your supervisor will be asked to approve. Let them know about the request and tell them to reach out to Scott Webster or Tom Depew if they have any questions. You can start using GitHub immediately; you don't need to wait for the ticket to be resolved.
 
 __If you already have a GitHub account__
 1. Decide if you will use your existing account for work or if you want to create a new account.
